@@ -2,7 +2,7 @@
 #### Web-Developer and Gamer
 ![Web-Developer and Gamer](https://media.tenor.com/xGkSfwXINOUAAAAS/noah-jupe-lorenzo-enzo.gif)
 
-I'm Ilia from Iran. I'm interested in Web-Development and Learning languages and frameworks as well as working in WordPress.  I'm currently learning JavaScript. I also used to play Dota2. You can actually see my projects as a link in my repositories descriptions.
+I'm Ilia from Iran. I'm interested in Web-Development and Learning languages and frameworks as well as working on WordPress.  I'm currently learning JavaScript. I also used to play Dota2. You can actually see my projects as a link in my repositories descriptions.
 
 Skills: HTML / CSS / JavaScript is coming soon
 
