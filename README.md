@@ -28,9 +28,9 @@ Skills: HTML / CSS / JavaScript is coming soon
 <p align="left">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="background-color: red;">](https://github.com/IliaNoah)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://www.telegram.me/IliaNoah)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://www.telegram.me/IliaAhd)
 
-<a href="https://instagram.com/ilianoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilianoah" height="30" width="40" /></a>
+<a href="https://instagram.com/iliaahd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilianoah" height="30" width="40" /></a>
 <a href="https://discord.gg/968543932541710366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="968543932541710366" height="30" width="40" /></a>
 </p>
 
