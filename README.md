@@ -27,7 +27,7 @@ Skills: HTML / CSS / JavaScript is coming soon
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="background-color: red;">](https://github.com/IliaNoah)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="background-color: red;">](https://github.com/IliaAhd)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://www.telegram.me/IliaAhd)
 
 <a href="https://instagram.com/iliaahd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilianoah" height="30" width="40" /></a>
