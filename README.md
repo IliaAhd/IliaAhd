@@ -51,8 +51,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/iliaahd/iliaahd/output/snake.svg" alt="Snake animation" />
-
-###
